@@ -8,7 +8,7 @@ Determines the amount of Health an individual has.
 ----------
 Determines the amount of Stamina an individual has.
 
-##Endurance Points
+## Endurance Points
 ----------
 Determines the durability that an individual has.
 
